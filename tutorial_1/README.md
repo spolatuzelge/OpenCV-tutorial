@@ -14,7 +14,6 @@ Bu repoda, **Udemy OpenCV eğitimi** temel alınarak hazırlanmış Python örne
 - Görüntü yeniden boyutlandırma ve video kaydetme
 
 ### `klasor7/` – Çekirdek ve Grafik Fonksiyonları
-- Çekirdek (kernel) oluşturma
 - Temel görüntü matematiği işlemleri
 - `draw` ve `trackbar` kullanımı
 - Görüntü üzerine yazı yazma
