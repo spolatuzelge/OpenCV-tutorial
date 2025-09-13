@@ -8,7 +8,7 @@ Bu repo, OpenCV’nin temelinden ileri seviyeye kadar farklı konularını adım
 
 ## 📂 Repo Yapısı
 
-### 🔹 `tutorial_1/`
+### 🔹 `201`
 **Temel Görüntü ve Video İşlemleri**
 - `01_ResimYukleme.py` → Görüntü yükleme ve gösterme  
 - `02_RGB_to_GRAY.py` → Renkli görüntüyü gri tonlamaya çevirme  
@@ -25,7 +25,7 @@ Bu repo, OpenCV’nin temelinden ileri seviyeye kadar farklı konularını adım
 
 ---
 
-### 🔹 `tutorial_2/301`
+### 🔹 `301`
 **Renk Uzayı, Histogram ve Kenar Algılama**
 - `01_renkUzayininDegistirilmesi.py` → Renk uzayı dönüşümleri (BGR ↔ HSV vb.)  
 - `03_roi.py` → Region of Interest (ROI) işlemleri  
@@ -43,7 +43,7 @@ Bu repo, OpenCV’nin temelinden ileri seviyeye kadar farklı konularını adım
 
 ---
 
-### 🔹 `tutorial_2/401`
+### 🔹 `401`
 **İleri Görüntü İşleme Teknikleri**
 - `01_resmeGurultuEkleme.py` → Gürültü ekleme  
 - `02_goruntuKeskinlestirme.py` → Görüntü keskinleştirme  
@@ -55,7 +55,7 @@ Bu repo, OpenCV’nin temelinden ileri seviyeye kadar farklı konularını adım
 
 ---
 
-### 🔹 `tutorial_2/501`
+### 🔹 `501`
 **Nesne Tanıma ve Sınıflandırma**
 - `01_QR-detec.py` → QR kod tespiti  
 - `02_DNNGoruntuSiniflandirma.py` → Derin sinir ağları ile görüntü sınıflandırma  
